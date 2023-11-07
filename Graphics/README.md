@@ -1,3 +1,2 @@
-# study
-labs, programms etc.
-# The current directory is intended for the works done during my studies at the university
+# Graphic:
+Working with graphics using the glut library.
